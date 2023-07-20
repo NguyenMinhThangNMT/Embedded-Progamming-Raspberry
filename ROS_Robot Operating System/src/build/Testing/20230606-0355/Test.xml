@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230606-0355-Experimental"
+	Name="nmt-ASUS-TUF-Gaming-A15-FA507RE-FA507RE"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="nmt-ASUS-TUF-Gaming-A15-FA507RE-FA507RE"
+	OSRelease="5.15.0-72-generic"
+	OSVersion="#79~20.04.1-Ubuntu SMP Thu Apr 20 22:12:07 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="68"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="7183"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1600"
+	>
+	<Testing>
+		<StartDateTime>Jun 06 14:45 +07</StartDateTime>
+		<StartTestTime>1686037521</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 06 14:45 +07</EndDateTime>
+		<EndTestTime>1686037521</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
